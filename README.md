@@ -6,7 +6,7 @@
 - Github
 
 ## My major projects
-1. Java 
+1. Java DocAutomationTool
 2. Python AI tool
 
 ## My favourite part of code

@@ -2,7 +2,7 @@
 
 ## My skills
 - Java
-- Pythin
+- Python
 - Github
 
 ## My major projects
